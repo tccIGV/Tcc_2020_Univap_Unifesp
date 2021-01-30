@@ -1,0 +1,13 @@
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\bin\Debug\Prototipo_Visual_TCC.exe.config
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\bin\Debug\Prototipo_Visual_TCC.exe
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\bin\Debug\Prototipo_Visual_TCC.pdb
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.csprojAssemblyReference.cache
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.Properties.Resources.resources
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.csproj.GenerateResource.cache
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.csproj.CoreCompileInputs.cache
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.exe
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.pdb
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.Form_Menu.resources
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.Form_Grafico.resources
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.Form_Imagens.resources
+C:\Program_Projects\TCC_2020\Prototipo_Visual_TCC\Prototipo_Visual_TCC\obj\Debug\Prototipo_Visual_TCC.Form_Teste.resources

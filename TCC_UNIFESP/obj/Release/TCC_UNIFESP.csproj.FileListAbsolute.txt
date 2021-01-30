@@ -1,0 +1,208 @@
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csprojAssemblyReference.cache
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormComparador.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormConfiguracao.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormImagens.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormMenu.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTelaInicial.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTeste.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.Properties.Resources.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.GenerateResource.cache
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.CoreCompileInputs.cache
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\bin\Release\BD_TCC.mdf
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.config
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\bin\Release\TCC_UNIFESP.pdb
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.pdb
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.manifest
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\bin\Release\TCC_UNIFESP.application
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe.manifest
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.5\TCC_UNIFESP\obj\Release\TCC_UNIFESP.application
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\bin\Release\BD_TCC.mdf
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.config
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.manifest
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.application
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.pdb
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csprojAssemblyReference.cache
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormComparador.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormConfiguracao.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormImagens.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormMenu.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTelaInicial.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTeste.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.Properties.Resources.resources
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.GenerateResource.cache
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.CoreCompileInputs.cache
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe.manifest
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.application
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe
+C:\Users\VictorC\Desktop\TCC_2020 v1.7.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.pdb
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\bin\Release\BD_TCC.mdf
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\bin\Release\BD_TCC_log.ldf
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.config
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.manifest
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.application
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\bin\Release\TCC_UNIFESP.pdb
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csprojAssemblyReference.cache
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormComparador.resources
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormConfiguracao.resources
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormImagens.resources
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormMenu.resources
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTelaInicial.resources
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTeste.resources
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.Properties.Resources.resources
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.GenerateResource.cache
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.CoreCompileInputs.cache
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe.manifest
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.application
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe
+C:\Users\guloc\Desktop\TCC_2020 v1.6\TCC_UNIFESP\obj\Release\TCC_UNIFESP.pdb
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\BD_TCC.mdf
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\BD_TCC_log.ldf
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.config
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.manifest
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.application
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.pdb
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csprojAssemblyReference.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.ResolveComReference.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormComparador.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormConfiguracao.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormImagens.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormMenu.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTelaInicial.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTeste.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.Properties.Resources.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.GenerateResource.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.CoreCompileInputs.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe.manifest
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.application
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe
+C:\REPOS\TCC 2020\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.pdb
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csprojAssemblyReference.cache
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.pdb
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\BD_TCC.mdf
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\BD_TCC_log.ldf
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.config
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.manifest
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.application
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\bin\Release\TCC_UNIFESP.pdb
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormComparador.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormConfiguracao.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormImagens.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormMenu.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTelaInicial.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTeste.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.Properties.Resources.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.GenerateResource.cache
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.CoreCompileInputs.cache
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe.manifest
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.application
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\Interop.VBIDE.dll
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.7\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.ResolveComReference.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\bin\Release\BD_TCC.mdf
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\bin\Release\BD_TCC_log.ldf
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.config
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.manifest
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.application
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.pdb
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csprojAssemblyReference.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\Interop.VBIDE.dll
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.ResolveComReference.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormComparador.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormConfiguracao.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormImagens.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormMenu.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTelaInicial.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTeste.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.Properties.Resources.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.GenerateResource.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.CoreCompileInputs.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe.manifest
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.application
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe
+C:\REPOS\TCC 2020\TCC_2020 v0.7.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.pdb
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\bin\Release\BD_TCC.mdf
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\bin\Release\BD_TCC_log.ldf
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.config
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.manifest
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\bin\Release\TCC_UNIFESP.application
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\bin\Release\TCC_UNIFESP.pdb
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csprojAssemblyReference.cache
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\Interop.VBIDE.dll
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.ResolveComReference.cache
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormComparador.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormConfiguracao.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormImagens.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormMenu.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTelaInicial.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTeste.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.Properties.Resources.resources
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.GenerateResource.cache
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.CoreCompileInputs.cache
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe.manifest
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.application
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe
+C:\Users\VictorC\Desktop\TCC_2020 v0.7.9\TCC_UNIFESP\obj\Release\TCC_UNIFESP.pdb
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\bin\Release\BD_TCC.mdf
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\bin\Release\BD_TCC_log.ldf
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.config
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.manifest
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.application
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\bin\Release\TCC_UNIFESP.pdb
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csprojAssemblyReference.cache
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\Interop.VBIDE.dll
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.ResolveComReference.cache
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormComparador.resources
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormConfiguracao.resources
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormImagens.resources
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormMenu.resources
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTelaInicial.resources
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTeste.resources
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.Properties.Resources.resources
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.GenerateResource.cache
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.CoreCompileInputs.cache
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe.manifest
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.application
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe
+C:\Users\guloc\Desktop\TCC_2020 v0.8\TCC_UNIFESP\obj\Release\TCC_UNIFESP.pdb
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\bin\Release\BD_TCC.mdf
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\bin\Release\BD_TCC_log.ldf
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.config
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe.manifest
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\bin\Release\TCC_UNIFESP.application
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\bin\Release\TCC_UNIFESP.exe
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\bin\Release\TCC_UNIFESP.pdb
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csprojAssemblyReference.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\Interop.VBIDE.dll
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.ResolveComReference.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormComparador.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormConfiguracao.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormImagens.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormMenu.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTelaInicial.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.FormTeste.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.Properties.Resources.resources
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.GenerateResource.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.csproj.CoreCompileInputs.cache
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe.manifest
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.application
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.exe
+C:\REPOS\TCC 2020\TCC_2020 v0.8.1\TCC_UNIFESP\obj\Release\TCC_UNIFESP.pdb
